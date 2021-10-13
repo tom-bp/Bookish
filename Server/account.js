@@ -1,4 +1,4 @@
-class accounts {
+class Account {
     constructor(username, name, passhash){
     this.username = username;
     this.name = name;
